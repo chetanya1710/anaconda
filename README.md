@@ -1,2 +1,2 @@
-# hello_world-
-just a new project
+# Codes for recommendation engine
+the Mark_8 gives the recommendation based on the product you enter
